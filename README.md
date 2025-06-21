@@ -30,6 +30,9 @@ Multimodal LLaVA-based medical vision + text QA with HIPAA/GDPR compliance.
 - [**Diffusion-based TTS with D3PM**](https://github.com/csulb-datascience/TTS-with-Diffusion-model.git)  
 SOTA speech synthesis + voice cloning with faster inference.
 
+- [**AG UI Chatbot**](https://github.com/pratikjadhav2726/AG-UI-chatbot)
+Agent Generative User Interface is an advanced chatbot project designed to provide intelligent conversational experiences. 
+
 ---
 
 ## 👨🏻‍💻 Past Lives
