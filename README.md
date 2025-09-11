@@ -7,6 +7,8 @@ By night (and sometimes weekends), I’m tinkering with **GraphRAG**, **Neo4j-po
 
 Oh, and I’m also passionate about 🧮 **math**, 🐈 **cats**, and 🤖 **agentic AI**.
 
+visit my website here to ask any questions to my agent on my experience and project [**Pratik Jadhav's Website**](https://pratik-jadhav-portfolio.vercel.app)  
+
 ---
 
 ## 🛠️ What I Do
