@@ -19,37 +19,6 @@ visit my website here to ask any questions to my agent on my experience and proj
 - **MLOps & Deployment**: MLflow, Docker, Kubernetes, AWS SageMaker & Bedrock
 - **Data Science**: NLP, CV, RLHF, Speech Processing, Recommender Systems
 
----
-
-## 🔍 Projects I’m Proud Of
-
-- [**Unified MCP Tool Graph**](https://github.com/pratikjadhav2726/Unified-MCP-Tool-Graph)  
-GraphRAG + Neo4j + LangGraph for smarter agent tool selection.
-
-- [**MedGPT**](https://github.com/pratikjadhav2726/MedGPT)  
-Multimodal LLaVA-based medical vision + text QA with HIPAA/GDPR compliance.
-
-- [**Diffusion-based TTS with D3PM**](https://github.com/csulb-datascience/TTS-with-Diffusion-model.git)  
-SOTA speech synthesis + voice cloning with faster inference.
-
-- [**AG UI Chatbot**](https://github.com/pratikjadhav2726/AG-UI-chatbot)
-Agent Generative User Interface is an advanced chatbot project designed to provide intelligent conversational experiences. 
-
----
-
-## 👨🏻‍💻 Past Lives
-
-- **AI System Specialist - UNIS (2025-Present)**  
-Building AI-driven solutions for logistics & supply chain optimization.
-
-- **Research Engineer & TA - CSULB (2023-2025)**  
-Optimizing LLMs and teaching GenAI. Also wrote a thesis on **Diffusion-based TTS**.
-
-- **AI/ML Software Engineer - Cognizant (2021-2022)**  
-Developed pilot scheduling optimization systems for Alaska Airlines.
-
----
-
 ## ✨ Fun Facts
 
 - I’m an **AI engineer who still loves pure math** — topology and number theory fascinate me.
