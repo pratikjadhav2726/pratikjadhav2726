@@ -1,38 +1,58 @@
 # Hey there 👋, I'm Pratik Shankar Jadhav
 
-I'm an **AI/ML Engineer** who loves building practical AI systems — the kind that don't just sit on papers, but actually work in production.
+I'm an **AI Engineer** focused on building practical **LLM, RAG, and Agentic AI systems** that move beyond demos and actually work in production.
 
-By day, I’m architecting scalable **LLM + RAG + Agentic AI** pipelines for enterprise use cases at **UNIS** (3PL / Logistics AI).  
-By night (and sometimes weekends), I’m tinkering with **GraphRAG**, **Neo4j-powered tool graphs**, **multimodal AI**, and the occasional diffusion model.
+Currently, I work on scalable **GenAI SaaS solutions, enterprise automation, RAG pipelines, and multi-agent workflows** at **UNIS / Item**, where I help connect AI systems with real business operations, internal tools, and live enterprise APIs.
 
-Oh, and I’m also passionate about 🧮 **math**, 🐈 **cats**, and 🤖 **agentic AI**.
+Outside of work, I’m building and exploring projects around **MCP infrastructure, GraphRAG, Neo4j-powered tool graphs, retrieval-based agent routing, multimodal AI, and AI developer tooling**.
 
-visit my website here to ask any questions to my agent on my experience and project [**Pratik Jadhav's Website**](https://www.pratikjadhav.dev)  
+I’m especially interested in one question:
+
+> How do we make AI agents more reliable, secure, and useful in real-world workflows?
+
+You can also visit my website and ask my AI agent about my experience and projects:  
+[**Pratik Jadhav's Website**](https://www.pratikjadhav.dev)
 
 ---
 
-## 🛠️ What I Do
+## 🛠️ What I Work On
 
-- **LLM Engineering**: Fine-tuning, PEFT (LoRA, QLoRA), quantization, model distillation
-- **RAG Architectures**: Self-RAG, GraphRAG, RAPTOR-based retrieval, Neo4j + VectorDBs
-- **Agentic AI**: MCP server orchestration, LangGraph-based tool agents, dynamic tool retrieval
-- **MLOps & Deployment**: MLflow, Docker, Kubernetes, AWS SageMaker & Bedrock
-- **Data Science**: NLP, CV, RLHF, Speech Processing, Recommender Systems
+- **LLM Engineering**: Fine-tuning, PEFT, LoRA, QLoRA, quantization, model distillation
+- **RAG Systems**: Self-RAG, GraphRAG, RAPTOR-style retrieval, hybrid search, re-ranking
+- **Agentic AI**: LangGraph agents, MCP tools, multi-agent orchestration, dynamic tool retrieval
+- **AI Infrastructure**: Docker, Kubernetes, MLflow, AWS SageMaker, Bedrock, API Gateway
+- **Applied AI**: NLP, computer vision, multimodal AI, evaluations, automation workflows
 
-## ✨ Fun Facts
+---
 
-- I’m an **AI engineer who still loves pure math** — topology and number theory fascinate me.
-- I’ve trained **agents to pick tools smarter than some humans** (I kid… or do I?).
-- I believe **Agentic AI** will change how we build software — one tool call at a time.
-- I have an unreasonable number of **cat memes** in my downloads folder.
+## 🚀 Projects I’m Building
+
+### SmarterMCP
+A multi-tenant MCP gateway that helps AI agents securely access tools, reduce token usage, and choose the right tools with less noise.
+
+### MedGPT
+A multimodal medical AI system that combines vision, clinical text, and LLM reasoning for healthcare-focused question answering.
+
+### AI Agent Tooling
+Experiments around tool ranking, MCP orchestration, agent memory, and production-ready AI workflow infrastructure.
+
+---
+
+## ✨ A Little More About Me
+
+- I enjoy building AI systems from **0 → 1**, especially where research meets real product use.
+- I still love **math**, especially the kind that makes AI feel less like magic and more like structure.
+- I believe the next wave of software will be built around **agents, tools, memory, and context**.
+- I may or may not have too many cat memes saved on my laptop.
 
 ---
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/pratikjadhav2726)  
-- [GitHub](https://github.com/pratikjadhav2726)  
+- [LinkedIn](https://www.linkedin.com/in/pratikjadhav2726)
+- [GitHub](https://github.com/pratikjadhav2726)
+- [Website](https://www.pratikjadhav.dev)
 
 ---
 
-> _“The best AI systems feel like magic but work like math.”_ — probably me, during a late-night coding session.
+> _The best AI systems feel simple on the outside, but are deeply engineered underneath._
